@@ -1,0 +1,53 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Ali",
+      "email": "ali@gmail.com",
+      "phone": "059059059",
+      "password": 123456,
+      "address": "Gaza"
+    },
+    {
+      "id": 2,
+      "userName": "Menna",
+      "email": "menna@gmail.com",
+      "phone": "059123123",
+      "password": 123456,
+      "address": "Khan Younes"
+    },
+    {
+      "id": 3,
+      "userName": "Jana",
+      "email": "jana@gmail.com",
+      "phone": "059456456",
+      "password": 123456,
+      "address": "Rafah"
+    },
+    {
+      "id": 4,
+      "userName": "Ashour",
+      "email": "ashour@gmail.com",
+      "phone": "059789789",
+      "password": 123456,
+      "address": "Gaza"
+    },
+    {
+      "id": 5,
+      "userName": "Ahmed",
+      "email": "ahmed@gmail.com",
+      "phone": "05901230",
+      "password": 123456,
+      "address": "Khan Younes"
+    },
+    {
+      "id": 6,
+      "userName": "Noor",
+      "email": "noor@gmail.com",
+      "phone": "059123456",
+      "password": 123456,
+      "address": "Gaza"
+    }
+  ]
+}
